@@ -21,3 +21,5 @@ While the Spotify API was expected to offer a standard categorization, it fell s
 <img width="1171" alt="Screenshot 2024-01-02 at 1 42 46 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/77bb45c2-807e-4d3c-9858-d954240b049f">
 <img width="1186" alt="Screenshot 2024-01-02 at 1 42 33 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/ffc766e0-6875-4274-ac97-930760e38196">
 <img width="1160" alt="no elvis" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/19054df1-e93b-42a0-ba10-04ac9b6ace03">
+<img width="1164" alt="Genres With Elvis:Without Elvis" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/18316840-b590-4f14-b34f-117fe8dc3b47">
+
