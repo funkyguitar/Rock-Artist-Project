@@ -16,6 +16,7 @@ These categorizations not only confuse but also challenge established ideas abou
 
 While the Spotify API was expected to offer a standard categorization, it fell short in capturing the multifaceted nature of artists' work. Grohl's absence from the grunge category was a testament to this limitation. This journey through Spotify's genre labyrinth not only challenged established notions but also revealed the subjective and evolving nature of musical genres. It underscored the complexity of categorizing art, where the lines are often blurred, and labels can sometimes do more to obscure than to define.
 
+Spotify API information and necessary credentials can be obtained at https://developer.spotify.com/documentation/web-api
 
 <img width="1171" alt="Screenshot 2024-01-02 at 12 50 28 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/df7d3e6f-4de0-4d5a-b231-e2a03fb86e53">
 <img width="1166" alt="Top Ten Artists For Males:Females" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/3a304211-5704-465b-bcef-4bcedb843045">
