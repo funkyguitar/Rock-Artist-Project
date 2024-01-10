@@ -18,6 +18,8 @@ While the Spotify API was expected to offer a standard categorization, it fell s
 
 Spotify API information and necessary credentials can be obtained at https://developer.spotify.com/documentation/web-api
 
+Unless indicated otherwise, data refers to all students, both male and female.
+
 <img width="1171" alt="Screenshot 2024-01-02 at 12 50 28 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/df7d3e6f-4de0-4d5a-b231-e2a03fb86e53">
 <img width="1166" alt="Top Ten Artists For Males:Females" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/3a304211-5704-465b-bcef-4bcedb843045">
 <img width="897" alt="Screenshot 2024-01-02 at 12 50 21 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/3319806f-1d48-4dce-bc57-284959878269">
