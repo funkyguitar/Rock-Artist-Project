@@ -23,7 +23,7 @@ Spotify API information and necessary credentials can be obtained at https://dev
 Unless indicated otherwise, data refers to all students, both male and female.
 
 <img width="1171" alt="Screenshot 2024-01-02 at 12 50 28 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/df7d3e6f-4de0-4d5a-b231-e2a03fb86e53">
-<img width="1166" alt="Top Ten Artists For Males:Females" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/3a304211-5704-465b-bcef-4bcedb843045">
+<img width="1153" alt="top ten artists male and female" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/c6c91742-6375-44c6-aa55-6e3da06833af">
 <img width="897" alt="Screenshot 2024-01-02 at 12 50 21 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/3319806f-1d48-4dce-bc57-284959878269">
 <img width="1099" alt="Screenshot 2024-01-02 at 12 50 06 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/e9b4da42-f20d-4f19-942c-1438ee233e66">
 <img width="1171" alt="Screenshot 2024-01-02 at 1 42 46 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/77bb45c2-807e-4d3c-9858-d954240b049f">
