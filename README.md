@@ -1,6 +1,6 @@
 # Rock-Artist-Project
 
-### <center>Rock Music Trends: Insights from Student Rock Artist Biographies<center>
+### <center>Harmonizing History with Data: A Six-Year Analysis of Student-Selected Rock Artists<center>
 
 As a music historian and instructor for the History of Rock Music course at a community college in the Pacific Northwest, I have overseen the end-of-term rock artist biography assignment since 2018. This role has afforded me a unique vantage point to observe the trends in artist selection and genre preferences among students. From 2018 to 2023, a diverse group of 500 students, comprising 273 females, 198 males, and 29 of undetermined gender, have written biographies. These biographies not only reveal insights into their individual choices but also provide a broader perspective on patterns in artist popularity, gender preferences, and genre classification. In this analysis, I explore these elements in depth. 
  
