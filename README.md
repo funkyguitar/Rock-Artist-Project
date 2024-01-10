@@ -28,5 +28,5 @@ Unless indicated otherwise, data refers to all students, both male and female.
 <img width="1099" alt="Screenshot 2024-01-02 at 12 50 06 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/e9b4da42-f20d-4f19-942c-1438ee233e66">
 <img width="1171" alt="Screenshot 2024-01-02 at 1 42 46 AM" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/77bb45c2-807e-4d3c-9858-d954240b049f">
 <img width="1168" alt="top 20 genres" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/61181aa0-e858-4c3c-bb80-1f38ffbe9446">
-<img width="1164" alt="Genres With Elvis:Without Elvis" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/18316840-b590-4f14-b34f-117fe8dc3b47">
+<img width="1154" alt="Elvis and female students" src="https://github.com/funkyguitar/Rock-Artist-Project/assets/104698553/96315013-9a88-441d-9fcf-958fabc1c341">
 
